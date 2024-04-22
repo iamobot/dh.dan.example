@@ -1,0 +1,36 @@
+body
+{
+	margin:auto;
+	max-width: 70em;
+	width:auto;
+	padding-left: 3em;
+	padding-right: 3em;
+}
+
+img.left
+{
+	/*font-size: smaller;*/ 
+	padding-top: .5em; 
+	padding-bottom: .5em; 
+	position: relative; 
+	float: left; 
+	padding-right: .5em; 
+	border: none; 
+	max-width: 35em; 
+	text-align: center; 
+	word-wrap: break-word;
+}
+
+h1, h2, h3, h4, h5
+{
+	font: sans-serif;
+}
+
+i.book {
+color:red;
+font-size:biggest;
+}
+
+i.foreign {
+color:green;
+}
